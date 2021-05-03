@@ -1,16 +1,21 @@
-### Hi there 👋
+![Logo](https://wallpapercave.com/wp/wp5418096.jpg) 
+<h1 align="center">Merhaba, 🤷‍♂️ Ben Savaş(Stark) c:</h1>
+<h3 align="center">Kendi Kendimi geliştiren bir insanım işte nabcanız beni :)</h3>
 
-<!--
-**starkbeyjs/StarkBeyjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=starkbeyjs&label=Profile%20views&color=0e75b6&style=flat" alt="starkgithubistatistik" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚓ Şuanda Serendia Sunucusunda Yetkiliyim [SerendiaSquad](https://discord.gg/MdctAvc6Wg)
+
+- 🌱 Üzerinde durduğum ve çalıştığım şeyler **JS, Node.js(Discord.js), HTML**
+
+<h3 align="center">İletişim</h3>
+
+- 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](reedbools1@gmail.com)
+- ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](htpps://discord.com/users/518356280226873355)
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starkbeyjs&show_icons=true&theme=radical" alt="starkgithubistatistik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkbeyjs&theme=radical" alt="starkgithubistatistik" /></p>
