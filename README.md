@@ -11,8 +11,8 @@
 
 <h3 align="center">İletişim</h3>
 
-- 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](reedbools1@gmail.com)
-- ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](htpps://discord.com/users/518356280226873355)
+- 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](mailto:reedbools1@gmail.com)
+- ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](discord.com/users/518356280226873355)
 
 
 
