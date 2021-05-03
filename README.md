@@ -12,6 +12,7 @@
 
 - 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](mailto:reedbools1@gmail.com)
 - ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/518356280226873355)
+- 💻 Kişisel websitem . [(Bakımda)](https://starkbey.me)
 
 
 
