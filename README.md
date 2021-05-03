@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starkbeyjs&label=Profile%20views&color=0e75b6&style=flat" alt="starkgithubistatistik" /> </p>
 
-
 - ⚓ Şuanda Serendia Sunucusunda Yetkiliyim [SerendiaSquad](https://discord.gg/MdctAvc6Wg)
 
 - 🌱 Üzerinde durduğum ve çalıştığım şeyler **JS, Node.js(Discord.js), HTML**
@@ -12,7 +11,7 @@
 <h3 align="center">İletişim</h3>
 
 - 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](mailto:reedbools1@gmail.com)
-- ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](discord.com/users/518356280226873355)
+- ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/518356280226873355)
 
 
 
