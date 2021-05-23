@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=starkbeyjs&show_icons=true&theme=radical" alt="starkgithubistatistik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkbeyjs&theme=radical" alt="starkgithubistatistik" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkbeyjs&theme=radical" alt="starkgithubistatistik" /></p> 
