@@ -12,10 +12,10 @@
 
 - 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](mailto:reedbools1@gmail.com)
 - ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/518356280226873355)
-- 💻 Kişisel websitem . [(Bakımda)](https://starkbey.me)
+- 💻 Kişisel websitem . [(Açıldı)](https://starkbey.me)
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=starkbeyjs&show_icons=true&theme=radical" alt="starkgithubistatistik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=starksvs&show_icons=true&theme=radical" alt="starkgithubistatistik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starkbeyjs&theme=radical" alt="starkgithubistatistik" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starksvs&theme=radical" alt="starkgithubistatistik" /></p> 
