@@ -1,21 +1,26 @@
-![Logo](https://wallpapercave.com/wp/wp5418096.jpg) 
-<h1 align="center">Merhaba, 🤷‍♂️ Ben Savaş(Stark) c:</h1>
-<h3 align="center">Kendi Kendimi geliştiren bir insanım işte nabcanız beni :)</h3>
+<h2>About Me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starkbeyjs&label=Profile%20views&color=0e75b6&style=flat" alt="starkgithubistatistik" /> </p>
+```js
+class Stark {
+    constructor(options) {
+        this.name = "Savaş",
+        this.sex = "man",
+        this.length = "180",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "74",
+        this.age = "21",
+        this.discord.tag = "Stark#5466"
+    };
+}
 
-- ⚓ Şuanda Serendia Sunucusunda Yetkiliyim [SerendiaSquad](https://discord.gg/MdctAvc6Wg)
+module.exports = Jahky
+```
+# My Github Stats
+                                                  
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=starktwo&show_icons=true&hide_title=true&theme=starktwo">
+<img width="11.5%" align="left" src="https://komarev.com/ghpvc/?username=starktwo&color=dc143c">
 
-- 🌱 Üzerinde durduğum ve çalıştığım şeyler **JS, Node.js(Discord.js), HTML**
+# My Social Media 
 
-<h3 align="center">İletişim</h3>
-
-- 📧 Bana **mail** adresimden uğraşabilirsiniz. [Mail Adresim](mailto:reedbools1@gmail.com)
-- ⭐ Bana **discord** hesabımdan uğraşabilirsiniz. [Discord](https://discord.com/users/518356280226873355)
-- 💻 Kişisel websitem . [(Açıldı)](https://starkbey.me)
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=starksvs&show_icons=true&theme=radical" alt="starkgithubistatistik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starksvs&theme=radical" alt="starkgithubistatistik" /></p> 
+[• Discord Accounts](https://discord.com/users/853011311328100411) | [• My Code Server](https://discord.gg/serendia) | [• Instagram](https://www.instagram.com/savassmeral)
