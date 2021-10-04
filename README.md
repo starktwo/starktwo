@@ -14,7 +14,7 @@ class Stark {
     };
 }
 
-module.exports = Jahky
+module.exports = Stark
 ```
 # My Github Stats
                                                   
