@@ -10,7 +10,7 @@ class Stark {
         this.job = "developer",
         this.weight = "74",
         this.age = "21",
-        this.discord.tag = "Stark#5466"
+        this.discord.tag = "Stârk#0001"
     };
 }
 
