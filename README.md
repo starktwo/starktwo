@@ -7,7 +7,6 @@ class Stark {
         this.sex = "man",
         this.length = "180",
         this.type = "human",
-        this.job = "fullstackdeveloper",
         this.weight = "74",
         this.discord.tag = "Stârk#7903",
         this.instagram = "savastwo",
