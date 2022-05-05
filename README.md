@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Savaş</h1>
 <h3 align="center">A intermediate backend developer from Turkey</h3>
 
-![image](https://user-images.githubusercontent.com/51216503/166926343-60a12f04-7a22-445c-ae85-8f8066f3dd65.png)
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/51216503/166926921-6b45e8e4-ad03-4597-83ae-bef255f76c1e.gif"
+  >
+</p>
 
 - 🔭 I’m currently working on **STPanel**
 
