@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **vue, mongoDB, express, node.js**
 
-- 📫 How to reach me **msavasmeral@gmail.com**
+- 📫 How to reach me **stark@starktwo.com.tr**
 
 <h3 align="left">🌟 Connect with me:</h3>
 <p align="left">
